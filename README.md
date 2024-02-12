@@ -20,7 +20,7 @@ Prerequisite: Apache NetBeans 13.0, Apache Tomcat Server 10.0, MySQL Server, MyS
 1. Clone the repo.
 
 ```
-https://github.com/AAdewunmi/Event-Management-System-Java.git
+https://github.com/Sulekh25/Event-Management-Website.git
 ```
 
 2. How to use:
